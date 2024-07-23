@@ -78,7 +78,7 @@ export class Store {
     this.#listeners = {};
   }
 }
-
+// Store example
 // const d = new Store({ count: 10 });
 // d.setState((state) => ({ count: state.count + 1 }));
 // d.setState((state) => ({ count: state.count + 4 }));
